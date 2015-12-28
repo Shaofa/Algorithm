@@ -3,29 +3,71 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104 Maximum Depth of Binary Tree", "104 二叉树最大深度\104 二叉树最大深度.vcxproj", "{331EA3D3-75CB-49D0-94C4-8FEC15B43282}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0104 Maximum Depth of Binary Tree", "104 二叉树最大深度\104 二叉树最大深度.vcxproj", "{331EA3D3-75CB-49D0-94C4-8FEC15B43282}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31 Next Permutaion", "31 Next Permutaion\31 Next Permutaion.vcxproj", "{3976B91E-DACA-40AF-B98B-4D0FE2DCD0BD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0031 Next Permutaion", "31 Next Permutaion\31 Next Permutaion.vcxproj", "{3976B91E-DACA-40AF-B98B-4D0FE2DCD0BD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100 Same Tree", "100 Same Tree\100 Same Tree.vcxproj", "{53BABA15-BD54-4435-9FDF-3122A3917FE4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0100 Same Tree", "100 Same Tree\100 Same Tree.vcxproj", "{53BABA15-BD54-4435-9FDF-3122A3917FE4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "122 Best Time to Buy and Sell Stock 2", "122 Best Time to Buy and Sell Stock 2\122 Best Time to Buy and Sell Stock 2.vcxproj", "{B9C2472D-0FE3-4FF1-9166-BABB5402651C}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "171 Excel Sheet Column Number", "Excel Sheet Column Number\Excel Sheet Column Number.vcxproj", "{A8C5725D-589C-4C0D-B2D8-1E2C362BBBB9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0122 Best Time to Buy and Sell Stock 2", "122 Best Time to Buy and Sell Stock 2\122 Best Time to Buy and Sell Stock 2.vcxproj", "{B9C2472D-0FE3-4FF1-9166-BABB5402651C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "144 Binary Tree Preorder Traversal", "Binary Tree Preorder Traversal\Binary Tree Preorder Traversal.vcxproj", "{3B46FF5A-9CE1-419B-A6E2-3F0E863A3AFA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "94 Binary Tree Inorder Traversal", "94 Binary Tree Inorder Traversal\94 Binary Tree Inorder Traversal.vcxproj", "{F28F195D-7A2B-48E4-9346-14B71E264A79}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0094 Binary Tree Inorder Traversal", "94 Binary Tree Inorder Traversal\94 Binary Tree Inorder Traversal.vcxproj", "{F28F195D-7A2B-48E4-9346-14B71E264A79}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "116 Populating Next Right Pointers in Each Node", "116 Populating Next Right Pointers in Each Node\116 Populating Next Right Pointers in Each Node.vcxproj", "{4DC617D2-360E-4282-835E-D9E56FF963A4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0116 Populating Next Right Pointers in Each Node", "116 Populating Next Right Pointers in Each Node\116 Populating Next Right Pointers in Each Node.vcxproj", "{4DC617D2-360E-4282-835E-D9E56FF963A4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 Contains Duplicate", "27 Contains Duplicate\27 Contains Duplicate.vcxproj", "{9B6B960E-04E7-47CF-9A5C-BC243E6B22FE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0027 Contains Duplicate", "27 Contains Duplicate\27 Contains Duplicate.vcxproj", "{9B6B960E-04E7-47CF-9A5C-BC243E6B22FE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64 Minimun Path Sum", "64 Minimun Path Sum\64 Minimun Path Sum.vcxproj", "{33495BCA-E42C-4FE2-977D-E0FB4913E656}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0064 Minimun Path Sum", "64 Minimun Path Sum\64 Minimun Path Sum.vcxproj", "{33495BCA-E42C-4FE2-977D-E0FB4913E656}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "120 Trangle", "120 Trangle\120 Trangle.vcxproj", "{686A3D47-655C-43F2-AC5C-3E4FDEFF0176}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0120 Trangle", "120 Trangle\120 Trangle.vcxproj", "{686A3D47-655C-43F2-AC5C-3E4FDEFF0176}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53 Maximum Subadrray", "53 Maximum Subadrray\53 Maximum Subadrray.vcxproj", "{608F8666-A3C1-433F-819C-579C6E5F7F58}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0053 Maximum Subadrray", "53 Maximum Subadrray\53 Maximum Subadrray.vcxproj", "{608F8666-A3C1-433F-819C-579C6E5F7F58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13.动态规划", "13.动态规划", "{6426086E-D22D-413D-BDA9-74889AAD3B3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.线性表", "2.线性表", "{AEB82FEF-F3C5-41F6-A507-8BB0D6227CB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.字符串", "3.字符串", "{1FA5DFEE-F938-4363-AE30-D4A0B3E8365F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.栈和队列", "4.栈和队列", "{471DB907-58B3-46B6-BEC3-46978F5215DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.树", "5.树", "{C76157CB-7295-4809-8FD3-E9C359BCAE77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.排序", "6.排序", "{6F1CDB46-5CD3-45F5-80C1-1DEFDE404AEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.查找", "7.查找", "{4AEBE2FC-9BEF-437B-9F0A-A8F3F75AFF79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.暴力枚举法", "8.暴力枚举法", "{84E98F2D-521F-4CAF-B1ED-277621806EA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.广度优先搜索", "9.广度优先搜索", "{E133D50B-145E-44A2-8A6E-D8148E52F6DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.深度优先搜索", "10.深度优先搜索", "{D3F3B589-0ADC-4820-A4F2-12D98D808F29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11.分治法", "11.分治法", "{296222D4-D285-43C0-81FB-DD9AF56DE197}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12.贪心法", "12.贪心法", "{E6CE53E6-25BA-4247-8BA4-DA71AFBBDBE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14.图", "14.图", "{B40C5ACE-6CDC-4920-B8F9-1A6F10C4C6C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15.细节实现", "15.细节实现", "{C1E8265F-9460-481E-98ED-34321566FF1A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0072 Edit Distance", "72 Edit Distance\72 Edit Distance.vcxproj", "{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0084 Largest Rectange in Histogram", "84 Largest Rectange in Histogram\84 Largest Rectange in Histogram.vcxproj", "{114DE17F-238E-4B59-B686-0009F4960AE9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0202.Biewise AND of Numbers Range", "202.Biewise AND of Numbers Range\202.Biewise AND of Numbers Range.vcxproj", "{7924908B-8783-4772-94E9-E77D790F1DA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0001.Two Sum", "1.Two Sum\1.Two Sum.vcxproj", "{3B3D48C4-A9FF-46A0-98B7-BBCF021AE776}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0002.Add Two Numbers", "2.Add Two Numbers\2.Add Two Numbers.vcxproj", "{EF1FAE1A-B50D-4B9E-86D3-36EB6CA09643}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0003.Longest Substring Without Repeating Characters", "3.Longest Substring Without Repeating Characters\3.Longest Substring Without Repeating Characters.vcxproj", "{721EADB3-B814-4A21-B140-2451234D03ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0004.Median of Two Sorted Arrays", "4.Median of Two Sorted Arrays\4.Median of Two Sorted Arrays.vcxproj", "{083F3D22-54C2-4DD2-9CF3-52032C61A239}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0005.Longest Palindromic Substring", "5.Longest Palindromic Substring\5.Longest Palindromic Substring.vcxproj", "{490B9869-75EE-4B48-8243-C4CED9E618FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,10 +91,6 @@ Global
 		{B9C2472D-0FE3-4FF1-9166-BABB5402651C}.Debug|Win32.Build.0 = Debug|Win32
 		{B9C2472D-0FE3-4FF1-9166-BABB5402651C}.Release|Win32.ActiveCfg = Release|Win32
 		{B9C2472D-0FE3-4FF1-9166-BABB5402651C}.Release|Win32.Build.0 = Release|Win32
-		{A8C5725D-589C-4C0D-B2D8-1E2C362BBBB9}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A8C5725D-589C-4C0D-B2D8-1E2C362BBBB9}.Debug|Win32.Build.0 = Debug|Win32
-		{A8C5725D-589C-4C0D-B2D8-1E2C362BBBB9}.Release|Win32.ActiveCfg = Release|Win32
-		{A8C5725D-589C-4C0D-B2D8-1E2C362BBBB9}.Release|Win32.Build.0 = Release|Win32
 		{3B46FF5A-9CE1-419B-A6E2-3F0E863A3AFA}.Debug|Win32.ActiveCfg = Debug|Win32
 		{3B46FF5A-9CE1-419B-A6E2-3F0E863A3AFA}.Debug|Win32.Build.0 = Debug|Win32
 		{3B46FF5A-9CE1-419B-A6E2-3F0E863A3AFA}.Release|Win32.ActiveCfg = Release|Win32
@@ -81,8 +119,53 @@ Global
 		{608F8666-A3C1-433F-819C-579C6E5F7F58}.Debug|Win32.Build.0 = Debug|Win32
 		{608F8666-A3C1-433F-819C-579C6E5F7F58}.Release|Win32.ActiveCfg = Release|Win32
 		{608F8666-A3C1-433F-819C-579C6E5F7F58}.Release|Win32.Build.0 = Release|Win32
+		{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9}.Debug|Win32.Build.0 = Debug|Win32
+		{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9}.Release|Win32.ActiveCfg = Release|Win32
+		{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9}.Release|Win32.Build.0 = Release|Win32
+		{114DE17F-238E-4B59-B686-0009F4960AE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{114DE17F-238E-4B59-B686-0009F4960AE9}.Debug|Win32.Build.0 = Debug|Win32
+		{114DE17F-238E-4B59-B686-0009F4960AE9}.Release|Win32.ActiveCfg = Release|Win32
+		{114DE17F-238E-4B59-B686-0009F4960AE9}.Release|Win32.Build.0 = Release|Win32
+		{7924908B-8783-4772-94E9-E77D790F1DA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7924908B-8783-4772-94E9-E77D790F1DA7}.Debug|Win32.Build.0 = Debug|Win32
+		{7924908B-8783-4772-94E9-E77D790F1DA7}.Release|Win32.ActiveCfg = Release|Win32
+		{7924908B-8783-4772-94E9-E77D790F1DA7}.Release|Win32.Build.0 = Release|Win32
+		{3B3D48C4-A9FF-46A0-98B7-BBCF021AE776}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B3D48C4-A9FF-46A0-98B7-BBCF021AE776}.Debug|Win32.Build.0 = Debug|Win32
+		{3B3D48C4-A9FF-46A0-98B7-BBCF021AE776}.Release|Win32.ActiveCfg = Release|Win32
+		{3B3D48C4-A9FF-46A0-98B7-BBCF021AE776}.Release|Win32.Build.0 = Release|Win32
+		{EF1FAE1A-B50D-4B9E-86D3-36EB6CA09643}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF1FAE1A-B50D-4B9E-86D3-36EB6CA09643}.Debug|Win32.Build.0 = Debug|Win32
+		{EF1FAE1A-B50D-4B9E-86D3-36EB6CA09643}.Release|Win32.ActiveCfg = Release|Win32
+		{EF1FAE1A-B50D-4B9E-86D3-36EB6CA09643}.Release|Win32.Build.0 = Release|Win32
+		{721EADB3-B814-4A21-B140-2451234D03ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{721EADB3-B814-4A21-B140-2451234D03ED}.Debug|Win32.Build.0 = Debug|Win32
+		{721EADB3-B814-4A21-B140-2451234D03ED}.Release|Win32.ActiveCfg = Release|Win32
+		{721EADB3-B814-4A21-B140-2451234D03ED}.Release|Win32.Build.0 = Release|Win32
+		{083F3D22-54C2-4DD2-9CF3-52032C61A239}.Debug|Win32.ActiveCfg = Debug|Win32
+		{083F3D22-54C2-4DD2-9CF3-52032C61A239}.Debug|Win32.Build.0 = Debug|Win32
+		{083F3D22-54C2-4DD2-9CF3-52032C61A239}.Release|Win32.ActiveCfg = Release|Win32
+		{083F3D22-54C2-4DD2-9CF3-52032C61A239}.Release|Win32.Build.0 = Release|Win32
+		{490B9869-75EE-4B48-8243-C4CED9E618FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{490B9869-75EE-4B48-8243-C4CED9E618FB}.Debug|Win32.Build.0 = Debug|Win32
+		{490B9869-75EE-4B48-8243-C4CED9E618FB}.Release|Win32.ActiveCfg = Release|Win32
+		{490B9869-75EE-4B48-8243-C4CED9E618FB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{53BABA15-BD54-4435-9FDF-3122A3917FE4} = {C76157CB-7295-4809-8FD3-E9C359BCAE77}
+		{3B46FF5A-9CE1-419B-A6E2-3F0E863A3AFA} = {C76157CB-7295-4809-8FD3-E9C359BCAE77}
+		{F28F195D-7A2B-48E4-9346-14B71E264A79} = {C76157CB-7295-4809-8FD3-E9C359BCAE77}
+		{4DC617D2-360E-4282-835E-D9E56FF963A4} = {C76157CB-7295-4809-8FD3-E9C359BCAE77}
+		{331EA3D3-75CB-49D0-94C4-8FEC15B43282} = {C76157CB-7295-4809-8FD3-E9C359BCAE77}
+		{33495BCA-E42C-4FE2-977D-E0FB4913E656} = {6426086E-D22D-413D-BDA9-74889AAD3B3A}
+		{686A3D47-655C-43F2-AC5C-3E4FDEFF0176} = {6426086E-D22D-413D-BDA9-74889AAD3B3A}
+		{608F8666-A3C1-433F-819C-579C6E5F7F58} = {6426086E-D22D-413D-BDA9-74889AAD3B3A}
+		{B9C2472D-0FE3-4FF1-9166-BABB5402651C} = {6426086E-D22D-413D-BDA9-74889AAD3B3A}
+		{0CB996F5-79D5-41EB-B166-F0DCABDC1AD9} = {6426086E-D22D-413D-BDA9-74889AAD3B3A}
+		{114DE17F-238E-4B59-B686-0009F4960AE9} = {471DB907-58B3-46B6-BEC3-46978F5215DA}
 	EndGlobalSection
 EndGlobal

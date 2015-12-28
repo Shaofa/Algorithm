@@ -14,6 +14,7 @@
     <ProjectGuid>{4DC617D2-360E-4282-835E-D9E56FF963A4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My116PopulatingNextRightPointersinEachNode</RootNamespace>
+    <ProjectName>0116 Populating Next Right Pointers in Each Node</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

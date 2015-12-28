@@ -28,7 +28,7 @@ void nextPermutation(vector<int>& nums)
 	string dic[9] = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 	for (; i < nums.end(); i++)
 	{
-		if (dic[*i])
+		//if (dic[*i])
 	}
 }
 

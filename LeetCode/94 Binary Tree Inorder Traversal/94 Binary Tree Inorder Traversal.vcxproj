@@ -14,6 +14,7 @@
     <ProjectGuid>{F28F195D-7A2B-48E4-9346-14B71E264A79}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My94BinaryTreeInorderTraversal</RootNamespace>
+    <ProjectName>0094 Binary Tree Inorder Traversal</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

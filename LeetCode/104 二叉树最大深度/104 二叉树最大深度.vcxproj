@@ -14,7 +14,7 @@
     <ProjectGuid>{331EA3D3-75CB-49D0-94C4-8FEC15B43282}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My104二叉树最大深度</RootNamespace>
-    <ProjectName>104 Maximum Depth of Binary Tree</ProjectName>
+    <ProjectName>0104 Maximum Depth of Binary Tree</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
